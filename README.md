@@ -102,7 +102,7 @@ Below is a diagram illustrating the relationships between the tables in the SQL 
 ## Usage
 To replicate this analysis, clone the repository and follow the provided SQL scripts:
 
-git clone [Click Here](https://github.com/Praveenmittakadapala8794/maven-fuzzy-factory.git)
+git clone [Click Here](https://github.com/Praveenmittakadapala8794/maven_fuzzy_factory.git)
 
 
 ## Conclusion
