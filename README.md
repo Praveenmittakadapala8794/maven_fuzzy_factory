@@ -1,7 +1,7 @@
-# E-Commerce Data Analysis for FuzzyTech
+# E-Commerce Data Analysis for Maven Fuzzy Factory
 
 ## Project Overview
-FuzzyTech is an innovative e-commerce platform focusing on high-quality stuffed animals. This project dives into user behavior analysis, traffic source evaluation, and product performance metrics using SQL, aiming to derive actionable insights for strategic business enhancements.
+ Maven Fuzzy Factory is an innovative e-commerce platform focusing on high-quality stuffed animals. This project dives into user behavior analysis, traffic source evaluation, and product performance metrics using SQL, aiming to derive actionable insights for strategic business enhancements.
 
 ## Tool Used
 - **SQL Workbench**: Utilized for executing SQL queries and performing comprehensive data analysis.
